@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](readme-res/banner-top.svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Tabuena&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Tabuena?label=Followers&style=flat-square&color=blueviolet)
 
@@ -16,11 +14,8 @@ Hey — I'm **Brandon**, an Android developer and hobbyist **ROM/kernel builder*
 I work on low-level Android projects including custom kernels, ROMs, and recoveries — primarily targeting Samsung devices.
 
 - ⚡ Building **ArcKern+** — a custom kernel for the Samsung Galaxy A04 (MT6765 / Helio G35)
-- 📦 Building **CipherOS** — a custom ROM for the Samsung Galaxy S10+ (Exynos 9820)
-- 🔐 **KernelSU Next** integration enthusiast
-- 🔧 Building entirely in **Termux** on-device with native Clang + GCC 4.9
-- 🧠 Deep into device trees, BoardConfig, boot image manipulation, and UN1CA/unica framework
-- 💬 Active on **XDA Forums** and the Android modding community
+- 🧠 Deep into device trees, and rom porting!
+- 💬 Active ***(barely)*** on **XDA Forums** and the Android modding community
 
 ---
 
@@ -28,33 +23,17 @@ I work on low-level Android projects including custom kernels, ROMs, and recover
 
 | Device | Codename | SoC | Projects |
 |--------|----------|-----|----------|
-| Samsung Galaxy A04 | `a04` / SM-A045F | MT6765 (Helio G35) | ArcKern+, 7Nights (One UI 7 port) |
-| Samsung Galaxy S10+ | `beyond2lte` | Exynos 9820 | CipherOS (LineageOS-based), PBRP |
+| Samsung Galaxy A04 | `a04` / SM-A045F | MT6765 (Helio G35) | Superfire+, TWRP, PBRP,7Nights |
+| Samsung Galaxy S10+ | `beyond2lte` | Exynos 9820 | TWRP, PBRP |
 
 ---
 
 ## 🚀 Featured Projects
 
-### [ArcKern+](https://github.com/Tabuena/android_kernel_samsung_a04)
-> Custom kernel for the Samsung Galaxy A04
+### [Superfire+] WIP
 
-- Built on-device via **Termux** using Clang + GCC 4.9 cross-compile toolchains
-- Custom config fragment `tabuena.config` for tuned performance
-- **KernelSU Next** integrated (no SuSFS)
-- Optimized scheduler, I/O, and power management tweaks
-
-### CipherOS (S10+)
-> LineageOS-based custom ROM for the Galaxy S10+
-
-- Built using **Crave.io** cloud build infrastructure
-- Adapted from LineageOS device trees
-- Targeting clean, de-bloated Android experience on Exynos 9820
-
-### [7Nights](https://github.com/Tabuena/7Nights)
+### [7Nights](https://github.com/DaniTheSillyFem/7Nights)
 > One UI 7 port for the Galaxy A04 using the UN1CA/unica framework
-
-- Smali-patch-based UI injection
-- CI/CD via **GitHub Actions**
 
 ---
 
@@ -72,10 +51,7 @@ I work on low-level Android projects including custom kernels, ROMs, and recover
 
 </div>
 
-**Kernel & Low-level:** Clang, GCC 4.9, magiskboot, KernelSU Next, AOSP build system  
-**ROM Building:** `mka bacon`, device trees, vendor blobs, BoardConfig.mk, Crave.io  
-**Frameworks:** UN1CA/unica (Samsung ROM porting), smali patching, ProGuard analysis  
-**Recovery:** PBRP, TWRP, EROFS, FBE metadata decryption  
+**Recovery:** PBRP, TWRP 
 
 ---
 
