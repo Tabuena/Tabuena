@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tabuena&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20Dev%20%7C%20Kernel%20%26%20ROM%20Builder%20%7C%20Philippines&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Brandon&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Android%20Dev%20%7C%20Kernel%20%26%20ROM%20Builder%20%7C%20Philippines&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tabuena&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Tabuena)
 [![GitHub followers](https://img.shields.io/github/followers/Tabuena?style=flat-square&color=blueviolet)](https://github.com/Tabuena?tab=followers)
