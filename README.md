@@ -1,0 +1,111 @@
+<div align="center">
+
+![Header](readme-res/banner-top.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tabuena&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Tabuena?label=Followers&style=flat-square&color=blueviolet)
+
+</div>
+
+---
+
+## 🛠️ About Me
+
+Hey — I'm **Brandon**, an Android developer and hobbyist **ROM/kernel builder** from the 🇵🇭 Philippines.
+
+I work on low-level Android projects including custom kernels, ROMs, and recoveries — primarily targeting Samsung devices.
+
+- ⚡ Building **ArcKern+** — a custom kernel for the Samsung Galaxy A04 (MT6765 / Helio G35)
+- 📦 Building **CipherOS** — a custom ROM for the Samsung Galaxy S10+ (Exynos 9820)
+- 🔐 **KernelSU Next** integration enthusiast
+- 🔧 Building entirely in **Termux** on-device with native Clang + GCC 4.9
+- 🧠 Deep into device trees, BoardConfig, boot image manipulation, and UN1CA/unica framework
+- 💬 Active on **XDA Forums** and the Android modding community
+
+---
+
+## 📱 Devices I Build For
+
+| Device | Codename | SoC | Projects |
+|--------|----------|-----|----------|
+| Samsung Galaxy A04 | `a04` / SM-A045F | MT6765 (Helio G35) | ArcKern+, 7Nights (One UI 7 port) |
+| Samsung Galaxy S10+ | `beyond2lte` | Exynos 9820 | CipherOS (LineageOS-based), PBRP |
+
+---
+
+## 🚀 Featured Projects
+
+### [ArcKern+](https://github.com/Tabuena/android_kernel_samsung_a04)
+> Custom kernel for the Samsung Galaxy A04
+
+- Built on-device via **Termux** using Clang + GCC 4.9 cross-compile toolchains
+- Custom config fragment `tabuena.config` for tuned performance
+- **KernelSU Next** integrated (no SuSFS)
+- Optimized scheduler, I/O, and power management tweaks
+
+### CipherOS (S10+)
+> LineageOS-based custom ROM for the Galaxy S10+
+
+- Built using **Crave.io** cloud build infrastructure
+- Adapted from LineageOS device trees
+- Targeting clean, de-bloated Android experience on Exynos 9820
+
+### [7Nights](https://github.com/Tabuena/7Nights)
+> One UI 7 port for the Galaxy A04 using the UN1CA/unica framework
+
+- Smali-patch-based UI injection
+- CI/CD via **GitHub Actions**
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM%2FClang-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+
+</div>
+
+**Kernel & Low-level:** Clang, GCC 4.9, magiskboot, KernelSU Next, AOSP build system  
+**ROM Building:** `mka bacon`, device trees, vendor blobs, BoardConfig.mk, Crave.io  
+**Frameworks:** UN1CA/unica (Samsung ROM porting), smali patching, ProGuard analysis  
+**Recovery:** PBRP, TWRP, EROFS, FBE metadata decryption  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tabuena&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabuena&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tabuena&theme=midnight-purple&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+- 🔧 **XDA Forums:** [BTabuena](https://xdaforums.com/m/btabuena.12497583/)
+- 💬 **GitHub:** [@Tabuena](https://github.com/Tabuena)
+- 📍 **Location:** Philippines 🇵🇭
+
+---
+
+<div align="center">
+
+![Footer](readme-res/banner-bottom.svg)
+
+</div>
