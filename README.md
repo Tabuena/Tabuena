@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](readme-res/banner-top.sg)
+![Header](readme-res/banner-top.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tabuena&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Tabuena?label=Followers&style=flat-square&color=blueviolet)
